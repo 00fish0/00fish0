@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-🌱 I’m currently learning programming.
+- 👋 Hi, I’m fatSheep.
 
-🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP
+- 🌱 I’m currently learning programming.
 
-[![fatSheep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![fatSheep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+- 🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=dark#gh-dark-mode-only" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=default#gh-light-mode-only" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut#gh-light-mode-only" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=dark#gh-dark-mode-only" width="37%" />
+</p>
 <!--
 **00fish0/00fish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
