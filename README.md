@@ -4,9 +4,12 @@
 
 🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP
 
-[![fatSheep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![fatSheep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+<p align="center">
+    [![fatSheep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    [![fatSheep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **00fish0/00fish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
