@@ -4,7 +4,25 @@
 
 - 🌱 I’m currently learning programming.
 
-- 🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP, ROS.
+- 🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP
+### Languages
+<div align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python">
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=markdown,latex">
+</div>
+</div>
+
+### Design?
+<div align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vim,ps,ai">
+</div>
+</div>
+
+### GitHub Stats
 <p float="center">
   <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=transparent" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=transparent" width="37%" />
