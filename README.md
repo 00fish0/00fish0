@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning programming.
 
-- 🤔 I’m currently learning ~~微积分，大学物理，模电，数电，电路，大学英语~~ CSAPP
 ### Languages
 <div align="center">
 <div align="center">
