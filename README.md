@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python">
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=markdown,latex">
+<img src="https://skillicons.dev/icons?i=bash, markdown,latex">
 </div>
 </div>
 
