@@ -17,7 +17,7 @@
 ### Design?
 <div align="center">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vim,ps,ai">
+<img src="https://skillicons.dev/icons?i=vscode,vim,ps,ai">
 </div>
 </div>
 
