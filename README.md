@@ -14,7 +14,7 @@
 </div>
 </div>
 
-### Design?
+### Editors & Softwares
 <div align="center">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,vim,ps,ai">
