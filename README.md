@@ -26,8 +26,10 @@
 ### Interests
 
 - deep learning
+
 - computer system
-- everything new and interesting :D
+
+- everything new and interesting (maybe λ-calculus?) :D
 
 ### GitHub Stats
 <p float="center">
