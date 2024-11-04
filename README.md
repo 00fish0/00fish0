@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning programming.
 
+- 👀 Give me a Follow! 
+
 ### Languages
 
 <div align="center">
@@ -20,6 +22,12 @@
 <img src="https://skillicons.dev/icons?i=markdown,latex,vscode,vim,ps,ai">
 </div>
 </div>
+
+### Interests
+
+- deep learning
+- computer system
+- everything new and interesting :D
 
 ### GitHub Stats
 <p float="center">
