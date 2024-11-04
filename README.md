@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning programming.
 
-- 👀 Give me a Follow! 
+- 👀 Feel free to reach out!
 
 ### Languages
 
