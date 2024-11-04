@@ -14,14 +14,10 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 </div>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=bash,markdown,latex">
-</div>
-
-### Editors & Softwares
+### Others
 <div align="center">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,vim,ps,ai">
+<img src="https://skillicons.dev/icons?i=bash,markdown,latex,vscode,vim,ps,ai">
 </div>
 </div>
 
