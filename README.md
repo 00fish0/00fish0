@@ -19,7 +19,7 @@
 ### Others
 <div align="center">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=markdown,latex,vscode,vim,ps,ai">
+<img src="https://skillicons.dev/icons?i=markdown,latex,vscode,vim,rust">
 </div>
 </div>
 
