@@ -16,26 +16,25 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 </div>
 
-### Others
-<div align="center">
-<div align="center">
-<img src="https://skillicons.dev/icons?i=markdown,latex,vscode,vim,rust">
-</div>
-</div>
-
 ### Interests
+<div align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,latex,pytorch,neovim">
+</div>
+</div>
 
-- deep learning
+- Mlsys
 
-- computer system
+- LLM/VLM efficiency
 
-- everything new and interesting (maybe λ-calculus?) :D
+- ...
 
 ### GitHub Stats
 <p float="center">
   <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=transparent" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=transparent" width="37%" />
 </p>
+
 <!--
 **00fish0/00fish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
