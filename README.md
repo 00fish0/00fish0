@@ -6,22 +6,19 @@
 
 - 👀 Feel free to reach out!
 
-### Languages
+### 🛠 Tech Stack
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
-</div>
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,lua,java" />
+</p>
 
-### Interests
-<div align="center">
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,latex,pytorch,neovim">
-</div>
-</div>
+**Systems & ML Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch,cuda,latex,neovim" />
+</p>
+
+---
 
 - Mlsys
 
@@ -30,22 +27,20 @@
 - ...
 
 ### GitHub Stats
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=transparent" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=transparent" width="37%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=transparent&border_radius=10" width="38%" />
 </p>
 
-<!--
-**00fish0/00fish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/00fish0/00fish0/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0" alt="visitor badge"/>
+  </a>
+</p>
