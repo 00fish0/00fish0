@@ -45,7 +45,7 @@ jobs:
           plugin_languages_categories: programming
 
           plugin_notable: yes
-          plugin_notable_from: user
+          plugin_notable_from: all
           plugin_notable_filter: stars:>5 forks:>2
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
