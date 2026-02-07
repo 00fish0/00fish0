@@ -1,46 +1,48 @@
-## Hi there 👋
+<h2 align="center">Hi there, I'm fatSheep (00fish0) 👋</h2>
 
+<!-- <p align="center">
+  ML systems • LLM/VLM efficiency • open to collaboration
+</p> -->
+
+---
+
+**About**
 - 👋 Hi, I’m fatSheep.
+- 🌱 Currently learning programming.
+- 👀 Always happy to connect and collaborate.
 
-- 🌱 I’m currently learning programming.
+**Focus**
+- ML systems
+- LLM/VLM efficiency
+- Systems performance and tooling
 
-- 👀 Feel free to reach out!
-
-### 🛠 Tech Stack
+**Tech Stack**
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,lua,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
 </p>
 
 **Systems & ML Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch,cuda,latex,neovim" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch,latex" />
 </p>
 
 ---
 
-- Mlsys
-
-- LLM/VLM efficiency
-
-- ...
-
-### GitHub Stats
+**GitHub Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00fish0&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00fish0&layout=donut&theme=transparent&border_radius=10" width="38%" />
+  <img align="center" width="49%" src="./metrics-main.svg" />
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/00fish0/00fish0/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0" alt="visitor badge"/>
-  </a>
-</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0" alt="visitor badge" />
+</p> -->
