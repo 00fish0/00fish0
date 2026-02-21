@@ -20,12 +20,12 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,dart" />
 </p>
 
 **Systems & ML Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch,latex" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch" />
 </p>
 
 ---
