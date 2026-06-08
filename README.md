@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Zihan Tang.
+## Hi there 👋 My name is Zihan Tang.
 
 I am currently an undergraduate (2023-2027) student in Computer Science and Technology at Harbin Institute of Technology, Shenzhen (HITSZ). My research focus is on machine learning systems, with an emphasis on LLM serving infrastructure.
 
