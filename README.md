@@ -1,48 +1,22 @@
-<h2 align="center">Hi there, I'm fatSheep (00fish0) 👋</h2>
+Hi there 👋
 
-<!-- <p align="center">
-  ML systems • LLM/VLM efficiency • open to collaboration
-</p> -->
+My name is Zihan Tang. I am currently an undergraduate (2023-2027) student in Computer Science and Technology at Harbin Institute of Technology, Shenzhen (HITSZ). My research focus is on machine learning systems, with an emphasis on LLM serving infrastructure.
 
----
+🔭 I'm currently working on the systems substrate for large language model serving. Specifically, my focus includes KV cache transport and storage across GPU memory, RDMA, and distributed store backends, high availability for distributed KV cache services, and TCP/RDMA transport internals. I also contribute upstream and downstream across the vLLM/SGLang ecosystem and work on AI infrastructure deployment and tuning. Additionally, I'm exploring on-device inference acceleration.
 
-**About**
-- 👋 Hi, I’m fatSheep.
-- 🌱 Currently learning programming.
-- 👀 Always happy to connect and collaborate.
+📫 How to reach me:
 
-**Focus**
-- ML systems
-- LLM/VLM efficiency
-- Systems performance and tooling
+[![Email](https://img.shields.io/badge/Email-tzh2005t@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tzh2005t@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@00fish0-181717?style=flat&logo=github&logoColor=white)](https://github.com/00fish0)
+[![WeChat](https://img.shields.io/badge/WeChat-DALEK0911-07C160?style=flat&logo=wechat&logoColor=white)](#)
 
-**Tech Stack**
+🤔 I'm also passionate about open-source community building and LLM serving systems. Welcome experts from both academia and industry to connect with me.
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,dart" />
-</p>
-
-**Systems & ML Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch" />
-</p>
+✨ Feel free to reach out via email for any related questions.
 
 ---
-
-**GitHub Metrics**
 
 <p align="center">
   <img align="center" width="49%" src="./metrics-main.svg" />
   <img align="center" width="49%" src="./metrics-lang-notable.svg" />
 </p>
-
-<!-- ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/00fish0/00fish0/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=00fish0.00fish0" alt="visitor badge" />
-</p> -->
