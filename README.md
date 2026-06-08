@@ -16,7 +16,7 @@ I am currently an undergraduate (2023-2027) student in Computer Science and Tech
 
 ✨ Feel free to reach out via email for any related questions.
 
-Stack
+## Stack
 <p align="center">
 C++ / CUDA / Python / Rust / RDMA / PyTorch / vLLM / SGLang / Mooncake
 </p>
