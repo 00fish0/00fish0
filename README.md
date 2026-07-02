@@ -23,7 +23,11 @@ C++ / CUDA / Python / Rust / RDMA / PyTorch / vLLM / SGLang / Mooncake
 
 ---
 
-<p align="center">
+[![GitHub Roast](https://ghfind.com/api/card/00fish0?theme=light)](https://ghfind.com/u/00fish0)
+
+[![GitHub Roast](https://ghfind.com/api/card/00fish0?theme=light&variant=contrib)](https://ghfind.com/u/00fish0)
+
+<!-- <p align="center">
   <img align="center" width="49%" src="./metrics-main.svg" />
   <img align="center" width="49%" src="./metrics-lang-notable.svg" />
-</p>
+</p> -->
