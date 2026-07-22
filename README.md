@@ -21,7 +21,6 @@ I am currently an undergraduate (2023-2027) student in Computer Science and Tech
 C++ / CUDA / Python / Rust / RDMA / PyTorch / vLLM / SGLang / Mooncake
 </p>
 
----
 
 <!-- <p align="center">
   <img align="center" width="49%" src="./metrics-main.svg" />
